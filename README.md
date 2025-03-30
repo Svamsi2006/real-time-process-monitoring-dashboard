@@ -49,6 +49,8 @@ realtime-process-monitor/
 
 ### 🎯 Monitor System Usage
 Launch the application to view real-time **CPU, memory, and disk statistics**.
+![image](https://github.com/user-attachments/assets/6b3c7e1c-00c0-4b4e-a740-8f0dc84a5cc0)
+
 
 ### 🎯 Manage Processes
 1. Use the **search bar** to filter processes.
